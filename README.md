@@ -18,17 +18,37 @@ Me gusta trabajar con tecnologías actuales, mantener código limpio y construir
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=danielreyes-7&show_icons=true&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=danielreyes-7&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=danielreyes-7&show_icons=true&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreyes-7&layout=compact&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreyes-7&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreyes-7&layout=compact&hide_border=true"
+      alt="Top Languages"
+    />
+  </picture>
 </p>
 
 ---
