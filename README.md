@@ -15,44 +15,6 @@ I enjoy working with modern technologies, writing clean code, and creating exper
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=danielreyes-7&show_icons=true&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=danielreyes-7&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=danielreyes-7&show_icons=true&hide_border=true"
-      alt="GitHub Stats"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreyes-7&layout=compact&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreyes-7&layout=compact&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreyes-7&layout=compact&hide_border=true"
-      alt="Top Languages"
-    />
-  </picture>
-</p>
-
----
-
 ## 🛠️ Skills
 
 ### 🎨 Frontend
