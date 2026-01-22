@@ -60,9 +60,11 @@ I enjoy working with modern technologies, writing clean code, and creating exper
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhreyes/)
+- 💼 LinkedIn:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhreyes/)
 
-- 📧 Email: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhro7rm@gmail.com)
+- 📧 Email:
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhro7rm@gmail.com)
 
 ---
 
