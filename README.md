@@ -1,4 +1,7 @@
 # 👋 ¡Hola! Soy Daniel Reyes
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielreyes-7.danielreyes-7&theme=dark" />
+</p>
 
 🎨 **Frontend Developer** apasionado por crear interfaces modernas, accesibles y bien pensadas.  
 Me gusta trabajar con tecnologías actuales, mantener código limpio y construir experiencias que realmente aporten valor.
@@ -98,8 +101,9 @@ Me gusta trabajar con tecnologías actuales, mantener código limpio y construir
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: [![LinkediIn]https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/dhreyes/)
-- 📧 Email: 
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhreyes/)
+
+- 📧 Email: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhro7rm@gmail.com)
 
 ---
 
