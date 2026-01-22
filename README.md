@@ -1,20 +1,17 @@
-# 👋 ¡Hola! Soy Daniel Reyes
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielreyes-7.danielreyes-7&theme=dark" />
-</p>
+# 👋 Hi! I'm Daniel Reyes
 
-🎨 **Frontend Developer** apasionado por crear interfaces modernas, accesibles y bien pensadas.  
-Me gusta trabajar con tecnologías actuales, mantener código limpio y construir experiencias que realmente aporten valor.
+🎨 **Frontend Developer** passionate about building modern, accessible, and well-crafted user interfaces.  
+I enjoy working with modern technologies, writing clean code, and creating experiences that truly add value.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer con foco en **React y Next.js**
-- 🧠 Fan del aprendizaje constante y las buenas prácticas
-- ⚙️ Experiencia integrando **APIs REST**
-- 🎯 Me importa tanto la **UI** como la **DX**
-- 🌎 Trabajo con proyectos web modernos
+- 💻 Frontend Developer focused on **React and Next.js**
+- 🧠 Enthusiastic about continuous learning and best practices
+- ⚙️ Experience integrating **REST APIs**
+- 🎯 I care deeply about both **UI** and **DX**
+- 🌎 Working on modern web projects
 
 ---
 
@@ -101,12 +98,14 @@ Me gusta trabajar con tecnologías actuales, mantener código limpio y construir
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhreyes/)
+- 💼 LinkedIn:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhreyes/)
 
-- 📧 Email: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhro7rm@gmail.com)
+- 📧 Email:  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhro7rm@gmail.com)
 
 ---
 
-## 🙌 Gracias por pasar
+## 🙌 Thanks for stopping by
 
-Gracias por tomarte el tiempo de visitar mi perfil 🙌
+Thanks for taking the time to visit my profile 🙌
